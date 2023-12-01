@@ -1,10 +1,18 @@
 {
-    "title":"HexBee",
-    "displayTitle":"HexBee",
-    "subTitle":"这是一个新的博客站点",
+    "title":"HexBee Blog",
+    "displayTitle":"HexBee Blog",
+    "subTitle":"人生不就是反复折腾吗，有时候停下来思考一会~",
     "homeUrl":"https://hexbee.github.io",
-    "avatarUrl":"http://meekdai.com/avatar.jpg",
-    "faviconUrl":"http://meekdai.com/favicon.ico",
-    "singlePage":[],
-    "GMEEK_VERSION":"last"
+    "avatarUrl":"https://meekdai.com/avatar.svg",
+    "faviconUrl":"https://meekdai.com/favicon.svg",
+    "singlePage":["link","about"],
+    "email":"jamboyfeng@gmail.com",
+    "startSite":"01/12/2023",
+    "filingNum":"浙xxx备xxxxxxxx号",
+    "onePageListNum":15,
+    "commentLabelColor":"#006b75",
+    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "i18n":"CN",
+    "nightTheme":"dark_colorblind",
+    "GMEEK_VERSION":"main"
 }
